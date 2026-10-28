@@ -1,0 +1,8 @@
+﻿.vs/
+bin/
+obj/
+packages/
+*.csproj.user
+*.suo
+*.mdf
+*.ldf
